@@ -1,5 +1,3 @@
-# Color-Identification-in-Images
-
 # Colour Identification
 Color identification in images
 
@@ -7,34 +5,35 @@ Color identification in images
 
 * pandas 
 
-bash
+```bash
 pip install pandas
-
+```
 
 * argparse
 
-bash
+```bash
 pip install argparse
-
+```
 
 * Opencv
 
-bash
+```bash
 pip install opencv-python
-
+```
 
 ## Run Python File
-bash
+```bash
 python ColourIdentification.py -i <path of image file>
-
+```
 ## Example to run python file (according to this code)
-bash
+```bash
 python ColourIdentification.py -i wall.jpg
-
+```
 
 ## Output
 
-It clearly identifies the color of the selected area in the image.
+  * It clearly identifies the color of the selected area in the image.
+
 
 ## Conclusion 
 
